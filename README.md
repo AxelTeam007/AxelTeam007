@@ -8,18 +8,22 @@
 </p>
 <br>
 
-    class AxelPresentation:
-        def __init__(self):
-            self.skills = ['programmation', 'créativité', 'montage_vidéo']
-            self.mission = "Créer des projets pour améliorer mes compétences."
+```python
+from github import axelsmn
 
-        def run(self):
-            print("Bonjour, je suis Axel, et je transforme mes idées en lignes de code.")
-            print("Je monte aussi des vidéos sur After Effects et Vegas Pro.")
-            print("Je m'intéresse beaucoup à l'intelligence artificielle et le marketing.")
+class AxelPresentation:
+    def __init__(self):
+        self.skills = ['programmation', 'créativité', 'montage_vidéo']
+        self.mission = "Créer des projets pour améliorer mes compétences."
 
-    axel = AxelPresentation()
-    axel.run()
+    def run(self):
+        print("Bonjour, je suis Axel, et je transforme mes idées en lignes de code.")
+        print("Je monte aussi des vidéos sur After Effects et Vegas Pro.")
+        print("Je m'intéresse beaucoup à l'intelligence artificielle et le marketing.")
+
+axel = AxelPresentation()
+axel.run()
+```
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <br>
