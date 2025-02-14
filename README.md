@@ -28,6 +28,6 @@ axel.run()
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axelteam007&" alt="Axel Smn Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AxelTeam007&" alt="Axel Smn Stats" /></p>
 <br>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelTeam007&langs_count=8&theme=transparent" alt=AxelTeam007 />
